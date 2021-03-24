@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-23T18:14:26 IST" name="Suite" finished-at="2021-03-23T18:15:44 IST" duration-ms="78505">
+    <groups>
+    </groups>
+    <test started-at="2021-03-23T18:14:26 IST" name="Test" finished-at="2021-03-23T18:15:44 IST" duration-ms="78505">
+      <class name="Tc.Loginpagewheels">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:24 IST" name="setupsuite" finished-at="2021-03-23T18:14:26 IST" duration-ms="1931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:26 IST" name="setup" finished-at="2021-03-23T18:14:34 IST" duration-ms="8648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="browser()[pri:0, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:34 IST" name="browser" finished-at="2021-03-23T18:14:34 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="url()[pri:0, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:34 IST" name="url" finished-at="2021-03-23T18:14:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="loginsearch()[pri:1, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:34 IST" name="loginsearch" finished-at="2021-03-23T18:14:35 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginsearch -->
+        <test-method signature="googlebutton()[pri:2, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:35 IST" name="googlebutton" finished-at="2021-03-23T18:14:38 IST" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlebutton -->
+        <test-method signature="emaildata()[pri:3, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:38 IST" name="emaildata" finished-at="2021-03-23T18:14:43 IST" duration-ms="5589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emaildata -->
+        <test-method signature="verify()[pri:3, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:43 IST" name="verify" finished-at="2021-03-23T18:14:47 IST" duration-ms="3280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method signature="navigateback()[pri:4, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:47 IST" name="navigateback" finished-at="2021-03-23T18:14:50 IST" duration-ms="3413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateback -->
+        <test-method signature="bike()[pri:5, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:50 IST" name="bike" finished-at="2021-03-23T18:14:51 IST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bike -->
+        <test-method signature="manufacture()[pri:6, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:51 IST" name="manufacture" finished-at="2021-03-23T18:14:54 IST" duration-ms="2988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manufacture -->
+        <test-method signature="honda()[pri:7, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:14:54 IST" name="honda" finished-at="2021-03-23T18:15:05 IST" duration-ms="10554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- honda -->
+        <test-method signature="bikes4lakhs()[pri:8, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:05 IST" name="bikes4lakhs" finished-at="2021-03-23T18:15:13 IST" duration-ms="8229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikes4lakhs -->
+        <test-method signature="mainpage()[pri:9, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:13 IST" name="mainpage" finished-at="2021-03-23T18:15:17 IST" duration-ms="4269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainpage -->
+        <test-method signature="usedcars()[pri:10, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:17 IST" name="usedcars" finished-at="2021-03-23T18:15:24 IST" duration-ms="6739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usedcars -->
+        <test-method signature="city()[pri:11, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:24 IST" name="city" finished-at="2021-03-23T18:15:25 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- city -->
+        <test-method signature="chennai()[pri:12, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:25 IST" name="chennai" finished-at="2021-03-23T18:15:29 IST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chennai -->
+        <test-method signature="recent()[pri:13, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:29 IST" name="recent" finished-at="2021-03-23T18:15:30 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recent -->
+        <test-method signature="list()[pri:14, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:30 IST" name="list" finished-at="2021-03-23T18:15:36 IST" duration-ms="5850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- list -->
+        <test-method signature="data()[pri:15, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:36 IST" name="data" finished-at="2021-03-23T18:15:36 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method signature="mainpage1()[pri:16, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:36 IST" name="mainpage1" finished-at="2021-03-23T18:15:41 IST" duration-ms="4840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainpage1 -->
+        <test-method signature="moveFocusToMainWindow()[pri:17, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:41 IST" name="moveFocusToMainWindow" finished-at="2021-03-23T18:15:43 IST" duration-ms="2454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveFocusToMainWindow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tc.Loginpagewheels@6f27a732]" started-at="2021-03-23T18:15:43 IST" name="teardown" finished-at="2021-03-23T18:15:44 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tc.Loginpagewheels -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
